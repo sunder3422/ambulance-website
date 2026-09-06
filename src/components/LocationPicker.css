@@ -1,0 +1,6 @@
+.location-picker { display: flex; flex-direction: column; align-items: flex-start; gap: 0.4rem; }
+.location-picker-result, .location-picker-note {
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  margin: 0;
+}
