@@ -1,7 +1,7 @@
 export const services = [
   {
-    slug: 'ambulance-service',
-    name: 'Ambulance Service',
+    slug: 'ambulance-website',
+    name: 'Ambulance Website',
     short: 'Standard emergency and non-emergency road ambulance for everyday medical transport needs.',
     description:
       'Our standard ambulances are staffed with trained attendants and equipped with essential life-support gear for emergency response and routine patient transport around the city.',
